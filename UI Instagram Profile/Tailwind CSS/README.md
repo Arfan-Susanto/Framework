@@ -207,7 +207,7 @@ Jawab:
 </div>
 ```
 - Solusi ini tombol tetap mudah dijangkau di mobile, estetika tetap terjaga di desktop
-``html
+```html
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-1 mt-2">
 ```
 - Solusi ini, gambar tetap terlihat jelas, layout tidak kacau saat resize.
