@@ -165,7 +165,7 @@ Kodenya:
     - `text-gray-700 font-semibold` style teks overlay.
 Kodenya:
 ```html
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-1 mt-2">
+<div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-1 mt-2">
   <div class="relative group col-span-1">
     <img src="Gambar 1.jpg" class="w-full aspect-[4/5] object-cover">
     <div class="absolute inset-0 flex items-center justify-center bg-gray-200/70 opacity-0 group-hover:opacity-100 transition">
