@@ -11,7 +11,7 @@ Bootstrap merupakan framework front-end  yang menyediakan komponen-komponen siap
 - **Responsif pada website**
     - 📱 Mobile yang berukuran <= 576px 1 Foto 📷
     - 💻 Desktop yang berukuran >= 992px 3 Foto 📷
-    - 📲 Tablet yang berukuran >= 768px 4 FOto 📷
+    - 📲 Tablet yang berukuran >= 768px 4 Foto 📷
 - **Tema Gelap pada website**
 - **Button Edit Profile dan Follow**
 - **Tata letak postingan mirip Instagram asli**
