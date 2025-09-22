@@ -10,7 +10,7 @@ Tailwind CSS merupakan sebuah framework *Cascading Style Sheet* yang digunakan u
 - **Responsif pada website**
     - 📱 Mobile yang berukuran grid-cols-1 1 Foto 📷
     - 💻 Desktop yang berukuran grid-cols-3 3 Foto 📷
-    - 📲 Tablet yang berukuran grid-cols-4 4 FOto 📷
+    - 📲 Tablet yang berukuran grid-cols-4 4 Foto 📷
 - **Tema Terang pada website**
 - **Button Edit Profile dan Follow**
 - **Tata letak postingan mirip Instagram asli**
